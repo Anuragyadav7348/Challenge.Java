@@ -18,12 +18,12 @@ public class Scope {
     }
 
     }
-    static void random(int marks) {
-        int num = 67;
-        System.err.println(67);
-        System.err.println(num);
-        System.err.println(marks);
+    // static void random(int marks) {
+    //     int num = 67;
+    //     System.err.println(67);
+    //     System.err.println(num);
+    //     System.err.println(marks);
     }
     
     
-}
+

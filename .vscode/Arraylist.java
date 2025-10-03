@@ -13,7 +13,8 @@ public class Arraylist {
         list.add(46);
         
 System.err.println(list);
-System.err.println(list.contains(46));
+System.err.println(list.contains(46));// that contain element
+
     }
 
 

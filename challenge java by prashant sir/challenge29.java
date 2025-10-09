@@ -14,7 +14,7 @@ public class challenge29 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter the value of N: ");
+        System.out.print("Enter  value of N: ");
         int N = scanner.nextInt();
 
         int sum = sumOddNumbers(N);

@@ -20,6 +20,12 @@ public class StudentClass {
         s.percent = 3;
         System.err.println(s.percent);
 
+        Student m = new Student();
+        m.name = "shiva";
+        m.rno = 23;
+        m.percent = 45.5;
+        System.err.println(m.rno);
+
         
     }
     
